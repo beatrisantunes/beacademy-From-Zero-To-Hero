@@ -1,0 +1,29 @@
+<!--
+    Block content (Div)
+        * action
+        * method (GET - Padrão)
+-->
+
+    <!--https://meusite.com/?nome=luanmonteiro&idade=20-->
+<form action="" method="post">
+    <fieldset name="contato">
+        <legend>Preencha o Formulário de contato</legend>
+    </fieldset>
+
+    <!--
+         <datalist>
+            * Lista de valores com sugestões para algum elemento input
+            * Usuário poderá selecionar um dos valores ou colocar novos valores
+
+    -->
+
+    <!--Lista de Professores-->
+    <datalist id="prof-list">
+        <opption>Luan</opption>
+        <opption>Jenifer</opption>
+        <opption>Regis</opption>
+    </datalist>
+
+    <input type="text" list="prof-list" placeholder="Escolha seu professor">
+
+</form>
