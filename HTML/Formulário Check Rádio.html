@@ -1,0 +1,66 @@
+<!--
+    Block content (Div)
+        * action
+        * method (GET - Padrão)
+-->
+
+    <!--https://meusite.com/?nome=luanmonteiro&idade=20-->
+    <form action="" method="post" enctype="multipart/form-data">
+
+        <fieldset>
+            <legend>Trabalhando com Inputs</legend>
+    
+            <!-- Input Type = Check (Checkbox)-->
+            <label for="area">
+                Seu interesse maior é por qual área?
+            </label>
+            
+            <div>
+                <input 
+                type="checkbox" 
+                name="interesse" 
+                id="frontend" 
+                value="Front-End Luan Monteiro"
+                checked
+                >
+            
+               <label for="frontend">Front-End Luan Monteiro</label>
+    
+                <input 
+                type="checkbox" 
+                name="interesse" 
+                id="backend" 
+                value="Back-End Regis Santos">
+                <label for="backend">Back-End Regis Santo</label>
+    
+                <input 
+                type="checkbox" 
+                name="interesse" 
+                id="designuiux" 
+                value="Design UI/UX Jenifer Vieira">
+                <label for="designuiux">Design UI/UX Jenifer Vieira</label>
+    
+            </div>
+
+            <br>
+            <br>
+            <br>
+
+            <!--interesse = front-end Luan Monteiro, back-end Regis Santos....-->
+
+
+            <!--Radio Button-->
+            <h3>Deseja receber notificação da be.academy</h3>
+            <label for="yes">Sim</label>
+            <input type="radio" id="yes" checked name="notification" value="yes">
+
+            <label for="no">Não</label>
+            <input type="radio" id="no" name="notification" value="no">
+
+            <br>
+            <button type="submit">Enviar</button>
+    
+    
+        </fieldset>
+
+    </form>
