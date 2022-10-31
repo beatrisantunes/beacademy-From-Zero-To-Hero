@@ -1,0 +1,74 @@
+<!--
+    Block content (Div)
+        * action
+        * method (GET - Padrão)
+-->
+
+    <!--https://meusite.com/?nome=luanmonteiro&idade=20-->
+    <form action="" method="post" enctype="multipart/form-data">
+
+        <fieldset>
+            <legend>Trabalhando com Inputs</legend>
+    
+            <!--
+                SELECT
+
+            Elemento de formulário capaz de criar uma lista de opções a serem selecionadas, DropDown
+            -->
+            <label for="teacher">Professores:</label>
+            <select name="select-teacher" id="teacher" multiple size="4">
+                <option value="">Selecione um professor</option>
+                <option value="Luan Santos">Luan Santos</option>
+                option value="Moacir Garcia">Moacir Garcia</option>
+                <option value="Jenifer Vieira">Jenifer Vieira</option>
+                <option value="Regis Eduardo">Regis Eduardo</option>
+            </select>
+
+            <!--select-teacher = ['Luan Santos', 'Moacir Garcia']-->
+
+            <!--
+                Input Search
+                * Elemento usado para pesquisar conteúdo
+                * Parecido com o campo "text" pode receber atributos e comportamentos
+
+            -->
+
+            <br>
+            <br>
+
+            <input 
+            type="search" 
+            name="" 
+            title=""
+            placeholder="Faça uma pesquisa"
+            size="24"
+            pattern="[0-9]{0,3}"
+            title="BUsque por o id de até 3 digitos"
+            required
+            >
+
+            <br>
+            <br>
+
+            <!--
+            Manipulando arquivos com o file
+
+            * Usuário poderá fazer um upload de 1 ou mais arquivos de acordo com a extensão
+            -->
+
+            <input 
+            type="file"
+            value=""
+            accept="image/*"
+            multiple
+            name=""
+            id=""
+            >
+
+            <br>
+            <button type="submit">Enviar</button>
+    
+    
+        </fieldset>
+
+    </form>
