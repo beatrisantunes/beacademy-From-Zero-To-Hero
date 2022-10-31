@@ -1,0 +1,109 @@
+/* 
+h1 {
+    color: red;
+    font-size: 50px;
+    background: blue;
+}
+
+p {
+    color: green;
+    font-size: 20px;
+    background: yellow;
+} 
+*/
+
+/* h1 {
+    border: 1px solid red;
+    margin: 32px;
+    padding: 24px;
+} */
+
+
+/* Pseudo Classes */
+/* ul li:first-child {
+    color: red;
+} */
+
+body p:nth-last-of-type(2) {
+    /* color: red;
+    font-size: 24px; */
+}
+
+body p:nth-child(4) {
+    /* color: blue; */
+}
+
+ul li:nth-child(even) {
+    /* background: red;
+    color: aliceblue; */
+}
+
+ul li:nth-child(odd) {
+    /* background: blue;
+    color: aliceblue; */
+}
+
+/* .btn-submit {
+    padding: 12px;
+    color: aliceblue;
+    background: rgb(9, 117, 167);
+    border: none;
+    border-radius: 4px;
+}
+
+.btn-submit:hover {
+    background: rgb(2, 99, 190);
+}
+
+.btn-submit:focus {
+    background: red;
+}
+
+input[type=text] {
+    border: 1px solid;
+    padding: 12px;
+    border-radius: 4px;
+    margin-bottom: 8px;
+    outline: none;
+    transition: .2s;
+}
+
+input[type=text]:hover {
+    border: 1px solid rgb(0,111,215);
+}
+
+input[type=text]:disabled {
+    background: rgba(0, 111, 215, 0.563);
+}
+
+input[type=text]:disabled::placeholder {
+    color: wheat;
+} */
+
+ul {
+    position: relative;
+}
+
+ul li::after {
+    content: '';
+    background-color: red;
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    position: absolute;
+    left: 140px;
+}
+
+ul li::before {
+    content: '';
+    background-color: blue;
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    position: absolute;
+    left: 0px;
+}
+
+p::first-line {
+    color: red;
+}
