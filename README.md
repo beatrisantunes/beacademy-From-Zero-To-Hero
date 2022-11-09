@@ -9,6 +9,7 @@
 <img align="center" alt="beatris-HTML" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="center" alt="beatris-CSS" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img align="center" alt="beatris-logicadeprogramacao" height="100" width="100" src="https://i.imgur.com/UYztZHX.png"/>
+<img align="center" alt="beatris-Javascript" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 </div>
 
 #
@@ -88,3 +89,21 @@ Lógica de Programação:
 - Estrutura de Repetição - Enquanto Repita-até (Do While)
 - Estruturas de Dados
 - Matriz
+
+Javascript:
+- Introdução JavaScript 
+- Primeiros Passos 
+- Tipo de dados 
+- Variáveis parte I 
+- Variáveis parte II 
+- Praticando Função Parte I 
+- Função Parte II 
+- Função Parte III 
+- Função Parte IV 
+- Função Parte V 
+- Manipulando Dados (String e Array) Parte I 
+- Manipulando Dados (String e Array) Parte II 
+- Manipulando Dados (String e Array) Parte III 
+- Operadores Controle e condições (IF... ELSE e Switch) 
+- Controle e condições (Throw e Try and Catch) 
+- Estrutura de repetição
