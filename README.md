@@ -18,7 +18,8 @@
 
 Repositório para envio dos exercícios ministrados e dados nas aulas do bootcamp "From Zero to Hero".
 
-Git Github:
+
+**Git e Github:**
 - Introdução ao Git e Github
 - Primeiros Passos
 - Instalação  
@@ -32,7 +33,8 @@ Git Github:
 - Introdução sobre os Intregavéis do Projeto
 - Considerações finais
 
-HTML:
+
+**HTML:**
 - Introdução ao Curso
 - O que é HTML  
 - Atributos e Atributos Globais
@@ -55,7 +57,9 @@ HTML:
 - Formulários - Textarea e Optgroup 
 - SEO
 
-CSS:
+
+
+**CSS:**
 - Conhecendo o CSS 
 - Origem do CSS 
 - Fluxo de leitura e Especificidade 
@@ -75,8 +79,7 @@ CSS:
 - Design responsivo
 
 
-
-Lógica de Programação:
+**Lógica de Programação:**
 - Introdução - O Que Veremos No Curso
 - Conceito de Lógica e Algoritmo
 - VisualG e Variáveis 
@@ -90,7 +93,8 @@ Lógica de Programação:
 - Estruturas de Dados
 - Matriz
 
-Javascript:
+
+**Javascript:**
 - Introdução JavaScript 
 - Primeiros Passos 
 - Tipo de dados 
