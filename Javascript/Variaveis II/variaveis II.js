@@ -3,8 +3,8 @@
 
 const humano = {
     nome: 'Beatris Antunes Silva',
-    idade: 36,
-    peso: 100,
+    idade: 22,
+    peso: 70,
     ehAtleta: false,
     andar: function andando() {
         console.log('Eu continuo a andar')
@@ -28,9 +28,9 @@ const animais = [
     'morcego',
     'papagaio',
     {
-        nome: 'Teco',
-        idade: 2,
-        peso: 0.3
+        nome: 'Max',
+        idade: 11,
+        peso: 0.5
     }
 ]
 console.log(animais)
