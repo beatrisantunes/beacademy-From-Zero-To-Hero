@@ -100,7 +100,8 @@ Repositório para envio dos exercícios ministrados e dados nas aulas do bootcam
 - Tipo de dados 
 - Variáveis parte I 
 - Variáveis parte II 
-- Praticando Função Parte I 
+- Praticando 
+- Função Parte I 
 - Função Parte II 
 - Função Parte III 
 - Função Parte IV 
@@ -108,6 +109,7 @@ Repositório para envio dos exercícios ministrados e dados nas aulas do bootcam
 - Manipulando Dados (String e Array) Parte I 
 - Manipulando Dados (String e Array) Parte II 
 - Manipulando Dados (String e Array) Parte III 
-- Operadores Controle e condições (IF... ELSE e Switch) 
+- Operadores
+- Controle e condições (IF... ELSE e Switch) 
 - Controle e condições (Throw e Try and Catch) 
 - Estrutura de repetição
