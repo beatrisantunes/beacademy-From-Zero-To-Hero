@@ -114,7 +114,7 @@ Repositório para envio dos exercícios ministrados e dados nas aulas do bootcam
 - Controle e condições (Throw e Try and Catch) 
 - Estrutura de repetição
 
-**Java Script Intermediário:**
+**Javascript Intermediário:**
 
 - Introdução JavaScript Intermediário - Introdução - Variáveis
 - IIFE e Arrow Functions
