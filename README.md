@@ -113,3 +113,20 @@ Repositório para envio dos exercícios ministrados e dados nas aulas do bootcam
 - Controle e condições (IF... ELSE e Switch) 
 - Controle e condições (Throw e Try and Catch) 
 - Estrutura de repetição
+
+**Java Script Intermediário:**
+
+- Introdução JavaScript Intermediário - Introdução - Variáveis
+- IIFE e Arrow Functions
+- For / Loop
+- Prototypes e Herança ES6 - parte 1
+- Prototypes e Herança ES6 - parte 2
+- Orientação a Objetos
+- Classes
+- Herança
+- Callbacks
+- Promisses
+- Promisses - Async / Await
+- Try / Catch
+- Rest Spread - Destructuring
+- Recrusion
