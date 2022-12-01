@@ -20,6 +20,7 @@ Repositório para envio dos exercícios ministrados e dados nas aulas do bootcam
 
 
 **Git e Github:**
+
 - Introdução ao Git e Github
 - Primeiros Passos
 - Instalação  
@@ -35,6 +36,7 @@ Repositório para envio dos exercícios ministrados e dados nas aulas do bootcam
 
 
 **HTML:**
+
 - Introdução ao Curso
 - O que é HTML  
 - Atributos e Atributos Globais
@@ -60,6 +62,7 @@ Repositório para envio dos exercícios ministrados e dados nas aulas do bootcam
 
 
 **CSS:**
+
 - Conhecendo o CSS 
 - Origem do CSS 
 - Fluxo de leitura e Especificidade 
@@ -80,6 +83,7 @@ Repositório para envio dos exercícios ministrados e dados nas aulas do bootcam
 
 
 **Lógica de Programação:**
+
 - Introdução - O Que Veremos No Curso
 - Conceito de Lógica e Algoritmo
 - VisualG e Variáveis 
@@ -95,6 +99,7 @@ Repositório para envio dos exercícios ministrados e dados nas aulas do bootcam
 
 
 **Javascript:**
+
 - Introdução JavaScript 
 - Primeiros Passos 
 - Tipo de dados 
@@ -130,3 +135,11 @@ Repositório para envio dos exercícios ministrados e dados nas aulas do bootcam
 - Try / Catch
 - Rest Spread - Destructuring
 - Recrusion
+
+**SOLID:**
+
+- Single Responsability Principle
+- Open-Closed Principle
+- Liskov Substitution Principle
+- Interface Segregation Principle
+- Dependency Inversion Principle
