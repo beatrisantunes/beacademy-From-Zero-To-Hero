@@ -2,7 +2,7 @@
 
 ![196043346-697cd472-95de-4e2b-b0f7-58be54526632](https://user-images.githubusercontent.com/79115923/196059915-270884ec-005a-4d2f-94d8-86e0912efaa1.png)
 
-<h2>Tecnologia e Ferramenta</h2>
+<h2>💻🛠 Tecnologias e Ferramentas:</h2>
 <div style-"display:inline_block"><br>
 <img align="center" alt="Git" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 <img align="center" alt="Git" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
@@ -18,8 +18,9 @@
 
 Repositório para envio dos exercícios ministrados e dados nas aulas do bootcamp "From Zero to Hero".
 
+## 📑 Etapas:
 
-**Git e Github:**
+**1 - Git e Github:**
 
 - Introdução ao Git e Github
 - Primeiros Passos
@@ -35,7 +36,7 @@ Repositório para envio dos exercícios ministrados e dados nas aulas do bootcam
 - Considerações finais
 
 
-**HTML:**
+**2 - HTML:**
 
 - Introdução ao Curso
 - O que é HTML  
@@ -61,7 +62,7 @@ Repositório para envio dos exercícios ministrados e dados nas aulas do bootcam
 
 
 
-**CSS:**
+**3 - CSS:**
 
 - Conhecendo o CSS 
 - Origem do CSS 
@@ -82,7 +83,7 @@ Repositório para envio dos exercícios ministrados e dados nas aulas do bootcam
 - Design responsivo
 
 
-**Lógica de Programação:**
+**4 - Lógica de Programação:**
 
 - Introdução - O Que Veremos No Curso
 - Conceito de Lógica e Algoritmo
@@ -98,7 +99,7 @@ Repositório para envio dos exercícios ministrados e dados nas aulas do bootcam
 - Matriz
 
 
-**Javascript:**
+**5 - Javascript:**
 
 - Introdução JavaScript 
 - Primeiros Passos 
@@ -119,7 +120,7 @@ Repositório para envio dos exercícios ministrados e dados nas aulas do bootcam
 - Controle e condições (Throw e Try and Catch) 
 - Estrutura de repetição
 
-**Javascript Intermediário:**
+**6 - Javascript Intermediário:**
 
 - Introdução JavaScript Intermediário - Introdução - Variáveis
 - IIFE e Arrow Functions
@@ -136,7 +137,7 @@ Repositório para envio dos exercícios ministrados e dados nas aulas do bootcam
 - Rest Spread - Destructuring
 - Recrusion
 
-**SOLID:**
+**7 - SOLID:**
 
 - Single Responsability Principle
 - Open-Closed Principle
